@@ -1,0 +1,8 @@
+photoIconSize	32.000000
+c1	1.100000
+c2	0.100000
+c3	0.010000
+scrollSensitivityUNI_A1.0.0	1.030000
+scrollSensitivityUNI_A1.0.1	1.000000
+DoubleClickZoomSensitivity	1.000000
+SaveCurrentView	0
